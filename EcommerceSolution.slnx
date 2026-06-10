@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="../Ecommerce.API/Ecommerce.API.csproj" />
+  <Project Path="../Ecommerce.Application/Ecommerce.Application.csproj" />
+  <Project Path="../Ecommerce.Domain/Ecommerce.Domain.csproj" />
+  <Project Path="../Ecommerce.Infrastructure/Ecommerce.Infrastructure.csproj" />
+  <Project Path="CatelogService.API/CatelogService.API.csproj" Id="13fb3377-27cd-494a-a7ae-407e3d2a5eaf" />
+  <Project Path="CatelogService.Application/CatelogService.Application.csproj" Id="70a3fd83-a1f3-4919-9e5e-4451a465215b" />
+  <Project Path="CatelogService.Domain/CatelogService.Domain.csproj" Id="e0f8c67f-eb7b-4e6f-902a-bc9d8db037ca" />
+  <Project Path="CatelogService.Infrastructure/CatelogService.Infrastructure.csproj" Id="02356ee9-0dc1-4984-82b7-d3979aed64d9" />
+  <Project Path="Gateway.API/Gateway.API.csproj" Id="e3b9c61d-1f39-49fc-b7da-a629de765fd5" />
+  <Project Path="OrderService.API/OrderService.API.csproj" Id="a427ef4f-6d12-4049-8148-c3cdd6028061" />
+  <Project Path="OrderService.Application/OrderService.Application.csproj" Id="bed443bc-16e0-4a5a-8d8a-448f56702d45" />
+  <Project Path="OrderService.Domain/OrderService.Domain.csproj" Id="25290c02-4b76-447f-ac20-897870bb8b22" />
+  <Project Path="OrderService.Infrastructure/OrderService.Infrastructure.csproj" Id="daeed266-96f3-4476-98a2-b1fafe5b57e1" />
+</Solution>
