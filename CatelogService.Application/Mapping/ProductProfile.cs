@@ -8,7 +8,7 @@ using AutoMapper;
 using CatelogService.Application.DTOs.ProductDTOs;
 using CatelogService.Domain.Entities;
 
-namespace Ecommerce.Application.Mapping
+namespace CatelogService.Application.Mapping
 {
     public class ProductProfile : Profile{
         public ProductProfile() {

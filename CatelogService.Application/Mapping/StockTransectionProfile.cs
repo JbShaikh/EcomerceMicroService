@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 
-namespace Ecommerce.Application.Mapping
+namespace CatelogService.Application.Mapping
 {
     public class StockTransectionProfile : Profile
     {
